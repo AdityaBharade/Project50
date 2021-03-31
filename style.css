@@ -1,0 +1,42 @@
+h1 {
+    color:black;
+}
+
+ 
+
+
+.header{
+
+background-color:mediumturquoise;
+display : flex;
+justify-content: space-evenly;
+    
+}
+.grid{
+
+background-color:royalblue;
+display : flex ;
+flex-wrap : wrap;
+justify-content :space-evenly;
+
+}
+.block{
+
+background-color:skyblue;
+text-align: center;
+
+}
+.item{
+
+    background-color:royalblue;
+    text-align: center;
+    justify-content :space-evenly;
+    
+    }
+.footer{
+
+background-color:teal;
+display : flex ;
+justify-content :flex-end;
+
+}
